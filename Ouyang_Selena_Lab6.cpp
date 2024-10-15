@@ -30,3 +30,36 @@ int main() {
 
   return 0;
 }
+
+/*
+inData: 
+17 20 
+T
+Chicken!
+
+outData:
+37
+85
+Chicken!
+
+
+inData: 
+12 12
+S
+Nuggets!
+
+outData:
+24
+84
+Nuggets!
+
+inData:
+23 57
+R
+Howdy!
+
+outData:
+80
+83
+Howdy!
+*/
